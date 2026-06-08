@@ -198,10 +198,12 @@ The dashboard provides visibility into tenant lifecycle trends, contract renewal
 ## 📸 Tenant Management Dashboard
 
 ![Tenant Dashboard](tenantmanagement1.png)
+![Tenant Dashboard](tenantmanagement2.png)
 
 ## 📸 Maintenance Management Dashboard
 
 ![Maintenance Dashboard](tenantmaintanence1.png)
+![Maintenance Dashboard](tenantmaintanence2.png)
 
 
 ---
